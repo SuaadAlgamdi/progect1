@@ -1,0 +1,45 @@
+/* * {
+     text-align: center;
+     display: ruby-text;
+     height: 10vh;
+ }
+
+ /*ol {
+     margin: 0px;
+ }
+
+ li {
+     text-align: center;
+     list-style-position: inside;
+ }*/
+
+
+
+ .home {
+     position: absolute;
+     z-index: 1;
+     left: 600px;
+     top: 30px;
+     
+
+ }
+ .home a{
+     text-decoration: none;
+     border: 2px solid green;
+     padding: 15px 30px;
+     background-color: rgb(79, 129, 88);
+     color: wheat;
+
+
+ }
+.carousel-inner img {
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.carousel-item{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 44px;
+    
+}
